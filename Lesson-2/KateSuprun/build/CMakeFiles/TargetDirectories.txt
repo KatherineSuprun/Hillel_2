@@ -1,0 +1,4 @@
+/home/kate/Downloads/lessonTwoHillel/Hillel/Lesson-2/KateSuprun/build/CMakeFiles/project.dir
+/home/kate/Downloads/lessonTwoHillel/Hillel/Lesson-2/KateSuprun/build/CMakeFiles/main_app.dir
+/home/kate/Downloads/lessonTwoHillel/Hillel/Lesson-2/KateSuprun/build/CMakeFiles/edit_cache.dir
+/home/kate/Downloads/lessonTwoHillel/Hillel/Lesson-2/KateSuprun/build/CMakeFiles/rebuild_cache.dir
